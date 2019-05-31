@@ -14,7 +14,7 @@ This Burp Extension copies the selected request to the clipboard as JavaScript F
 1. Select a random request;
 2. Click on right-button of mouse over request or click on **Action** option;
 3. Select the **Copy as JavaScript Request** option;
-4. Paste the string on browser or other place.
+4. Paste the string on browser console or other place.
 
 # Sample
 
