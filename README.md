@@ -7,7 +7,7 @@ This Burp Extension copies the selected request to the clipboard as JavaScript F
 1. Download the **JavaScript-Request.jar** file;
 2. Open your Burp Suite;
 3. Following the path: Extender\Extensions;
-4. Click on Add button, select **Java** option and loading this file.
+4. Click on Add button, select **Java** option and load this file.
 
 # Usage
 
@@ -39,7 +39,7 @@ fetch('https://content-signature.cdn.mozilla.net:443/chains/remote-settings.cont
 
 # Dependencies
 
-This extension was deployed with **JDK 1.8+**, tested on OpenJDK 1.8.0_212, through the openjdk-8-jdk Debian/Ubuntu package. But, the source code can be found in **src** folder.
+This extension was deployed with **JDK 1.8+**, tested on OpenJDK 1.8.0_212, through the openjdk-8-jdk Debian/Ubuntu package. But, the source code can be found in **source** folder.
 
 # References:
 
