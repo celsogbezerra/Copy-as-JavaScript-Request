@@ -20,7 +20,7 @@ This Burp Extension copies the selected request to the clipboard as JavaScript F
 
 1. Copying the request:
 
-![Sample](/images/sample.png)
+![Sample](/image/sample.png)
 
 2. JavaScript code:
 
